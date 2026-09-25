@@ -1,18 +1,18 @@
-### Hello! My name is Dmitry and I am Developer 👋
+# Dmitrii Epikhin
 
-At the moment, I work at 💻[Omnora](https://www.slidepresenter.com/en/).
+QA Automation Engineer / SDET with a frontend engineering background.
 
-<!--
-**Ingo-o/Ingo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work primarily with **Playwright** and **TypeScript**, covering UI/E2E and REST API automation, cross-browser testing, test infrastructure, CI/CD workflows, testability, debugging, and QA metrics.
 
-Here are some ideas to get you started:
+Previously worked as a React/TypeScript frontend developer before transitioning into QA Automation/SDET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+
+`Playwright` · `TypeScript` · `JavaScript` · `REST API` · `GitHub Actions` · `Docker` · `React` · `Jest`
+
+### Links
+
+* [LinkedIn](https://www.linkedin.com/in/dmitrii-epikhin)
+* [Email](mailto:dmitrii.epikhin@outlook.com)
+
+Based in Georgia. Open to remote opportunities and international relocation.
