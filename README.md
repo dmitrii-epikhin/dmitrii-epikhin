@@ -5,6 +5,6 @@ I work across UI/E2E and REST API automation, cross-browser testing, test infras
 
 **🛠 Tech & Tools:** Playwright · TypeScript · REST API · GitHub Actions · Docker · Git · Testmo · React · Jest
 
-**🔗 You can find me here:** [LinkedIn](https://www.linkedin.com/in/dmitrii-epikhin)
+**🔗 You can find me here:** [LinkedIn](https://www.linkedin.com/in/dmitrii-epikhin) · [Telegram](https://t.me/Dmitrii_Epikhin)
 
 📍 Based in Georgia. Open to remote opportunities and international relocation.
