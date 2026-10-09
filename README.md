@@ -1,9 +1,9 @@
 ## 🤓 Dmitrii Epikhin
-**QA Automation Engineer / SDET with a frontend engineering background.**
+**Frontend Engineer | React | TypeScript**
 
-I work across UI/E2E and REST API automation, cross-browser testing, test infrastructure, CI/CD workflows, testability, debugging, and QA metrics. Previously worked as a React/TypeScript frontend developer.
+I build product features and UI, with hands-on experience in unit, API and end-to-end testing.
 
-**🛠 Tech & Tools:** Playwright · TypeScript · REST API · GitHub Actions · Docker · Git · Testmo · React · Jest
+**🛠 Tech & Tools:** React · TypeScript · JavaScript · Redux · MobX · REST APIs · Playwright · Jest · GitHub Actions · CI/CD
 
 **🔗 You can find me here:** [LinkedIn](https://www.linkedin.com/in/dmitrii-epikhin) · [Telegram](https://t.me/Dmitrii_Epikhin)
 
